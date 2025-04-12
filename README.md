@@ -1,6 +1,6 @@
-# Guide to Bitz Miner CLI on Eclipse🪂🪂
+# Guide to mine $BITZ using CLI on Eclipse 🪂🪂
 
-**❤️❤️Follow our TG for More Early Alpha: https://telegram.me/feature_earning**
+** Join our TG for More Early Alpha: **
 ---
 
 ## Install Dependecies
